@@ -1,4 +1,4 @@
-## SQL Project: Supermarket Sales Analysis
+## SQL Project: Customer Sales Analysis
 
 ### Overview:
 This project involved using MySQL Workbench to analyze extensive sales data from a supermarket, aiming to uncover insights into revenue generation, identify top-selling branches, and segment customers. I examined popular products and payment methods while analyzing sales trends to understand seasonal patterns and growth trajectories.
