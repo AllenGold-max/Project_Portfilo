@@ -8,7 +8,7 @@ In the airline industry, gaining customer insights is increasingly efficient tha
 Load the data set and import the libraries.
 Set sentiment value and combine the two datasets.
 ```{r}
-#####Combine two dataset############
+# Combine two dataset #
 #set 1 as negative, 0 as non-negative
 complaint$sentiment <- 1
 noncomplaint$sentiment <- 0
